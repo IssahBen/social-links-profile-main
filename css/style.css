@@ -656,6 +656,10 @@ video {
   padding-left: 0.5rem;
 }
 
+.font-sans {
+  font-family: Inter, sans-serif;
+}
+
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
